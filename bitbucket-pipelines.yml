@@ -1,0 +1,31 @@
+#  Template python-build
+
+#  This template allows you to validate your python code.
+#  The workflow allows running tests and code linting on the default branch.
+image: python:3.8
+
+track-mobile: &track-mobile
+  name: Mobile Performance (Master)
+  caches:
+    - pip
+  script:
+    - if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - python -m pip install --upgrade pip
+    - python lighthouse.py mobile prod
+
+track-desktop: &track-desktop
+  name: Desktop Performance (Master)
+  caches:
+    - pip
+  script:
+    - if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - python -m pip install --upgrade pip
+    - python lighthouse.py desktop prod
+
+pipelines:
+  default:
+    - parallel:
+      - step:
+          <<: *track-mobile
+      - step:
+          <<: *track-desktop

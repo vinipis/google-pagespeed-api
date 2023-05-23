@@ -1,0 +1,830 @@
+[
+   {
+      "url":"https://www.motorola.com.br/",
+      "enviroment":"MOTOROLA-WWW",
+      "workspace":"MOTOROLA",
+      "area":"MOTOROLA-HOME",
+      "categoria":"MOTOROLA-HOME",
+      "subCategoria":"MOTOROLA-HOME",
+      "subSubCategoria":"MOTOROLA-HOME"
+   },
+   {
+      "url":"https://www.motorola.com.br/smartphone-motorola-edge-30-ultra-5g/p",
+      "enviroment":"MOTOROLA-WWW",
+      "workspace":"MOTOROLA",
+      "area":"MOTOROLA-PDP",
+      "categoria":"MOTOROLA-MOBILE",
+      "subCategoria":"MOTOROLA-SMARTPHONE",
+      "subSubCategoria":"MOTOROLA-EDGE 30 ULTRA 5G"
+   },
+   {
+      "url":"https://www.motorola.com.br/smartphones",
+      "enviroment":"MOTOROLA-WWW",
+      "workspace":"MOTOROLA",
+      "area":"MOTOROLA-PLP",
+      "categoria":"MOTOROLA-MOBILE",
+      "subCategoria":"MOTOROLA-MOBILE",
+      "subSubCategoria":"MOTOROLA-MOBILE"
+   },
+   {
+      "url":"https://www.motorola.com.br/moto%20g",
+      "enviroment":"MOTOROLA-WWW",
+      "workspace":"MOTOROLA",
+      "area":"MOTOROLA-SEARCH",
+      "categoria":"MOTOROLA-SEARCH",
+      "subCategoria":"MOTOROLA-SEARCH",
+      "subSubCategoria":"MOTOROLA-EARCH"
+   },
+   {
+      "url":"https://www.motorola.com.br/checkout#/cart",
+      "enviroment":"MOTOROLA-WWW",
+      "workspace":"MOTOROLA",
+      "area":"MOTOROLA-CART",
+      "categoria":"MOTOROLA-CART",
+      "subCategoria":"MOTOROLA-CART",
+      "subSubCategoria":"MOTOROLA-CART"
+   },
+   {
+      "url":"https://www.apple.com/br/",
+      "enviroment":"APPLE-WWW",
+      "workspace":"APPLE",
+      "area":"APPLE-HOME",
+      "categoria":"APPLE-HOME",
+      "subCategoria":"APPLE-HOME",
+      "subSubCategoria":"APPLE-HOME"
+   },
+   {
+      "url":"https://www.apple.com/br/shop/buy-iphone/iphone-14",
+      "enviroment":"APPLE-WWW",
+      "workspace":"APPLE",
+      "area":"APPLE-PDP",
+      "categoria":"APPLE-MOBILE",
+      "subCategoria":"APPLE-SMARTPHONE",
+      "subSubCategoria":"APPLE-IPHONE 14"
+   },
+   {
+      "url":"https://www.apple.com/br/iphone/",
+      "enviroment":"APPLE-WWW",
+      "workspace":"APPLE",
+      "area":"APPLE-PLP",
+      "categoria":"APPLE-MOBILE",
+      "subCategoria":"APPLE-MOBILE",
+      "subSubCategoria":"APPLE-MOBILE"
+   },
+   {
+      "url":"https://www.apple.com/br/search/iphone?src=globalnav",
+      "enviroment":"APPLE-WWW",
+      "workspace":"APPLE",
+      "area":"APPLE-SEARCH",
+      "categoria":"APPLE-SEARCH",
+      "subCategoria":"APPLE-SEARCH",
+      "subSubCategoria":"APPLE-SEARCH"
+   },
+   {
+     "url":"https://www.apple.com/br/shop/bag",
+     "enviroment":"APPLE-WWW",
+     "workspace":"APPLE",
+     "area":"APPLE-CART",
+     "categoria":"APPLE-CART",
+     "subCategoria":"APPLE-CART",
+     "subSubCategoria":"APPLE-CART"
+  },
+   {
+      "url":"http://samsung.com/uk",
+      "enviroment":"UK-WWW",
+      "workspace":"UK",
+      "area":"UK-HOME",
+      "categoria":"UK-HOME",
+      "subCategoria":"UK-HOME",
+      "subSubCategoria":"UK-HOME"
+   },
+   {
+      "url":"https://www.samsung.com/uk/smartphones/galaxy-s23/",
+      "enviroment":"UK-WWW",
+      "workspace":"UK",
+      "area":"UK-PDP",
+      "categoria":"UK-MOBILE",
+      "subCategoria":"UK-SMARTPHONE",
+      "subSubCategoria":"UK-IPHONE 14"
+   },
+   {
+      "url":"http://samsung.com/uk/mobile/",
+      "enviroment":"UK-WWW",
+      "workspace":"UK",
+      "area":"UK-PLP",
+      "categoria":"UK-MOBILE",
+      "subCategoria":"UK-MOBILE",
+      "subSubCategoria":"UK-MOBILE"
+   },
+   {
+      "url":"http://samsung.com/uk/search/?searchvalue=s21",
+      "enviroment":"UK-WWW",
+      "workspace":"UK",
+      "area":"UK-SEARCH",
+      "categoria":"UK-SEARCH",
+      "subCategoria":"UK-SEARCH",
+      "subSubCategoria":"UK-SEARCH"
+   },
+   {
+      "url":"https://shop.samsung.com/uk/cart",
+      "enviroment":"UK-WWW",
+      "workspace":"UK",
+      "area":"UK-CART",
+      "categoria":"UK-CART",
+      "subCategoria":"UK-CART",
+      "subSubCategoria":"UK-CART"
+   },
+   {
+      "url":"https://empresas.samsung.com.ar/",
+      "enviroment":"SEASA-ARSMB-WWW",
+      "workspace":"SEASA-ARSMB",
+      "area":"SEASA-ARSMB-HOME",
+      "categoria":"SEASA-ARSMB-HOME",
+      "subCategoria":"SEASA-ARSMB-HOME",
+      "subSubCategoria":"SEASA-ARSMB-HOME"   
+   },
+   {
+      "url":"https://empresas.samsung.com.ar/celular-galaxy-s23-ultra/p?skuId=1117",
+      "enviroment": "SEASA-ARSMB-WWW",
+      "workspace":"SEASA-ARSMB",
+      "area":"SEASA-ARSMB-PDP",
+      "categoria":"DISPOSITIVOS MÓVILES",
+      "subCategoria":"SMARTPHONES",
+      "subSubCategoria":"SERIE S"
+   },
+   {
+      "url":"https://empresas.samsung.com.ar/65-uhd-4k-smart-tv-au7000/p?skuId=1078",
+      "enviroment": "SEASA-ARSMB-WWW",
+      "workspace":"SEASA-ARSMB",
+      "area":"SEASA-ARSMB-PDP",
+      "categoria":"TV AV",
+      "subCategoria":"ÁUDIO VÍDEO",
+      "subSubCategoria":"TELEVISORES"   
+   },
+   {
+      "url":"https://empresas.samsung.com.ar/lavasecarropas-9kg-con-ecobubble-wd4000t/p?skuId=57",
+      "enviroment": "SEASA-ARSMB-WWW",
+      "workspace":"SEASA-ARSMB",
+      "area":"SEASA-ARSMB-PDP",
+      "categoria":"LINHA RESIDENCIAL",
+      "subCategoria":"MÁQUINA DE LAVAR",
+      "subSubCategoria":"LAVANDO ROUPAS"  
+   },
+   {
+      "url":"https://empresas.samsung.com.ar/dispositivos-moviles?initialMap=category-1&initialQuery=dispositivos-moviles&map=category-1,category-2&order=OrderByTopSaleDESC&query=/dispositivos-moviles/smartphones&searchState",
+      "enviroment": "SEASA-ARSMB-WWW",
+      "workspace":"SEASA-ARSMB",
+      "area":"SEASA-ARSMB-PLP",
+      "categoria":"SEASA-ARSMB-PLP",
+      "subCategoria":"SEASA-ARSMB-PLP",
+      "subSubCategoria":"SEASA-ARSMB-PLP"   
+   },
+   {
+      "url":"https://empresas.samsung.com.ar/s23?_q=s23&map=ft",
+      "enviroment": "SEASA-ARSMB-WWW",
+      "workspace":"SEASA-ARSMB",
+      "area":"SEASA-ARSMB-SEARCH",
+      "categoria":"SEASA-ARSMB-SEARCH",
+      "subCategoria":"SEASA-ARSMB-SEARCH",
+      "subSubCategoria":"SEASA-ARSMB-SEARCH"     
+   },
+   {
+      "url":"https://shop.samsung.com/ar/",
+      "enviroment":"SEASA-AR-WWW",
+      "workspace":"SEASA-AR",
+      "area":"SEASA-AR-HOME",
+      "categoria":"SEASA-AR-HOME",
+      "subCategoria":"SEASA-AR-HOME",
+      "subSubCategoria":"SEASA-AR-HOME"      
+   },
+   {
+      "url":"https://shop.samsung.com/ar/celular-galaxy-s23-ultra/p?skuId=136780",
+      "enviroment": "SEASA-AR-WWW",
+      "workspace":"SEASA-AR",
+      "area":"SEASA-AR-PDP",
+      "categoria":"DISPOSITIVOS MÓVILES",
+      "subCategoria":"SMARTPHONES",
+      "subSubCategoria":"SERIE S"
+   },
+   {
+      "url":"https://shop.samsung.com/ar/70--uhd-4k-smart-tv-au7000/p?skuId=134724",
+      "enviroment": "SEASA-AR-WWW",
+      "workspace":"SEASA-AR",
+      "area":"SEASA-AR-PDP",
+      "categoria":"TV AV",
+      "subCategoria":"ÁUDIO VÍDEO",
+      "subSubCategoria":"TELEVISORES" 
+   },
+   {
+      "url":"https://shop.samsung.com/ar/lavasecarropas-9kg-con-ecobubble-wd4000t/p?skuId=135225",
+      "enviroment": "SEASA-AR-WWW",
+      "workspace":"SEASA-AR",
+      "area":"SEASA-AR-PDP",
+      "categoria":"LINHA RESIDENCIAL",
+      "subCategoria":"MÁQUINA DE LAVAR",
+      "subSubCategoria":"LAVANDO ROUPAS"  
+   },
+   {
+      "url":"https://shop.samsung.com/ar/dispositivos-moviles?map=category-1&order=OrderByTopSaleDESC",
+      "enviroment": "SEASA-AR-WWW",
+      "workspace":"SEASA-AR",
+      "area":"SEASA-AR-PLP",
+      "categoria":"SEASA-AR-PLP",
+      "subCategoria":"SEASA-AR-PLP",
+      "subSubCategoria":"SEASA-AR-PLP"  
+   },
+   {
+      "url":"https://shop.samsung.com/ar/S23?_q=S23&map=ft",
+      "enviroment": "SEASA-AR-WWW",
+      "workspace":"SEASA-AR",
+      "area":"SEASA-AR-SEARCH",
+      "categoria":"SEASA-AR-SEARCH",
+      "subCategoria":"SEASA-AR-SEARCH",
+      "subSubCategoria":"SEASA-AR-SEARCH"  
+   },
+   {
+      "url":"https://shop.samsung.com/ar/checkout/#/cart",
+      "enviroment": "SEASA-AR-WWW",
+      "workspace":"SEASA-AR",
+      "area":"SEASA-AR-CART",
+      "categoria":"SEASA-AR-CART",
+      "subCategoria":"SEASA-AR-CART",
+      "subSubCategoria":"SEASA-AR-CART"  
+   },
+    {
+      "url":"https://www.samsung.com/br/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-HOME",
+      "categoria":"SEDA-HOME",
+      "subCategoria":"SEDA-HOME",
+      "subSubCategoria":"SEDA-HOME"
+   },
+   {
+      "url":"https://www.samsung.com/br/smartphones/galaxy-z-fold4/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTPHONE",
+      "subSubCategoria":"GALAXY Z FOLD"
+   },
+   {
+      "url":"https://www.samsung.com/br/smartphones/galaxy-z-flip4/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTPHONE",
+      "subSubCategoria":"GALAXY Z FLIP"
+   },
+   {
+      "url":"https://www.samsung.com/br/smartphones/galaxy-s22/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTPHONE",
+      "subSubCategoria":"GALAXY S"
+   },
+   {
+      "url":"https://www.samsung.com/br/watches/galaxy-watch/galaxy-watch5-44mm-graphite-lte-sm-r915fzapzto/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTWATCHES",
+      "subSubCategoria":"GALAXY WATCH 44 MM"
+   },
+   {
+      "url":"https://www.samsung.com/br/watches/galaxy-watch/galaxy-watch5-pro-black-titanium-bluetooth-sm-r920nzkpzto/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTWATCHES",
+      "subSubCategoria":"GALAXY WATCH 45 MM"
+   },
+   {
+      "url":"https://www.samsung.com/br/audio-sound/galaxy-buds/galaxy-buds2-pro-bora-purple-sm-r510nlvpzto/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"AUDIO",
+      "subSubCategoria":"GALAXY BUDS2 PRO"
+   },
+   {
+      "url":"https://www.samsung.com/br/tablets/galaxy-tab-s/galaxy-tab-s8-ultra-5g-graphite-512gb-sm-x906bzaozto/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"TABLET",
+      "subSubCategoria":"GALAXY TAB S"
+   },
+   {
+      "url":"https://www.samsung.com/br/tvs/qled-tv/q65b-55-inch-qled-4k-smart-tv-qn55q65bagxzd/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"TV E ÁUDIO",
+      "subCategoria":"TV",
+      "subSubCategoria":"QLED"
+   },
+   {
+      "url":"https://www.samsung.com/br/projectors/the-freestyle/lsp3b-the-freestyle-sp-lsp3blaxzd/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"TV E ÁUDIO",
+      "subCategoria":"PROJETORES",
+      "subSubCategoria":"THE FREESTYLE"
+   },
+   {
+      "url":"https://www.samsung.com/br/air-conditioners/wall-mount/ar9500t-wind-free-f-ar09ashabwk/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"ELETRODOMÉSTICOS",
+      "subCategoria":"AR CONDICIONADO",
+      "subSubCategoria":"WIND FREE"
+   },
+   {
+      "url":"https://www.samsung.com/br/washers-and-dryers/washer-dryer-combo/wd5300t-14kg-black-wd14t504dsb-az/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"ELETRODOMÉSTICOS",
+      "subCategoria":"MÁQUINAS DE LAVAR E SECAR",
+      "subSubCategoria":"LAVA E SECA"
+   },
+   {
+      "url":"https://www.samsung.com/br/refrigerators/bottom-mount-freezer/432l-ez-clean-steel-rl4363rbasl-az/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"ELETRODOMÉSTICOS",
+      "subCategoria":"GELADEIRAS",
+      "subSubCategoria":"DUPLEX INVERSE"
+   },
+   {
+      "url":"https://www.samsung.com/br/vacuum-cleaners/robot/robot-vr05r5050wk/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"ELETRODOMÉSTICOS",
+      "subCategoria":"ASPIRADORES",
+      "subSubCategoria":"ASPIRADORES ROBÔS"
+   },
+   {
+      "url":"https://www.samsung.com/br/monitors/flat/uhd-monitor-28-inch-lu28r550uqlmzd/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"INFORMÁTICA",
+      "subCategoria":"MONITORES",
+      "subSubCategoria":"MONITOR 4K"
+   },
+   {
+      "url":"https://www.samsung.com/br/smartphones/galaxy-s22-ultra/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTPHONE",
+      "subSubCategoria":"GALAXY S"
+   },
+   {
+      "url":"https://www.samsung.com/br/computers/notebook/galaxy-book2-360-13inch-i5-16gb-512gb-np730qed-kf2br/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"INFORMÁTICA",
+      "subCategoria":"NOTEBOOKS",
+      "subSubCategoria":"GALAXY BOOK2 360"
+   },
+   {
+      "url":"https://www.samsung.com/br/monitors/high-resolution/smart-m8-32-inch-uhd-4k-ls32bm80pulxzd/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"INFORMÁTICA",
+      "subCategoria":"MONITORES",
+      "subSubCategoria":"SMART MONITOR"
+   },
+   {
+      "url":"https://www.samsung.com/br/tvs/qled-tv/qn90b-43-inch-neo-qled-4k-smart-tv-qn43qn90bagxzd/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"TV E ÁUDIO",
+      "subCategoria":"TV",
+      "subSubCategoria":"NEO QLED"
+   },
+   {
+      "url":"https://www.samsung.com/br/audio-devices/soundbar/q930b-black-hw-q930b-zd/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PDP",
+      "categoria":"TV E ÁUDIO",
+      "subCategoria":"ÁUDIO",
+      "subSubCategoria":"SOUNDBAR"
+   },
+   {
+      "url":"https://www.samsung.com/br/mobile",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PLP",
+      "categoria":"MOBILE",
+      "subCategoria":"MOBILE",
+      "subSubCategoria":"MOBILE"
+   },
+   {
+      "url":"https://www.samsung.com/br/tvs",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PLP",
+      "categoria":"TV E ÁUDIO",
+      "subCategoria":"TV E ÁUDIO",
+      "subSubCategoria":"TV E ÁUDIO"
+   },
+   {
+      "url":"https://www.samsung.com/br/monitors/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PLP",
+      "categoria":"INFORMÁTICA",
+      "subCategoria":"INFORMÁTICA",
+      "subSubCategoria":"INFORMÁTICA"
+   },
+   {
+      "url":"https://www.samsung.com/br/refrigerators/all-refrigerators/",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-PLP",
+      "categoria":"ELETRODOMÉSTICOS",
+      "subCategoria":"ELETRODOMÉSTICOS",
+      "subSubCategoria":"ELETRODOMÉSTICOS"
+   },
+   {
+      "url":"https://www.samsung.com/br/search/?searchvalue=S23",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-SEARCH",
+      "categoria":"SEDA-SEARCH",
+      "subCategoria":"SEDA-SEARCH",
+      "subSubCategoria":"SEDA-SEARCH"
+   },
+   {
+      "url":"https://shop.samsung.com/br/checkout/#/cart",
+      "enviroment":"SEDA-WWW",
+      "workspace":"SEDA",
+      "area":"SEDA-CART",
+      "categoria":"SEDA-CART",
+      "subCategoria":"SEDA-CART",
+      "subSubCategoria":"SEDA-CART"
+   },
+   {
+      "url":"https://shop.samsung.com/br/galaxy-z-fold4-5g/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTPHONE",
+      "subSubCategoria":"GALAXY Z FOLD"
+   },
+   {
+      "url":"https://shop.samsung.com/br/galaxy-z-fold4-5g/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTPHONE",
+      "subSubCategoria":"GALAXY Z FLIP"
+   },
+   {
+      "url":"https://shop.samsung.com/br/galaxy-s22-plus-5g/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTPHONE",
+      "subSubCategoria":"GALAXY S"
+   },
+   {
+      "url":"https://shop.samsung.com/br/galaxy-watch5-lte-44mm/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTWATCHES",
+      "subSubCategoria":"GALAXY WATCH 44 MM"
+   },
+   {
+      "url":"https://shop.samsung.com/br/galaxy-watch5-pro-bt-45mm/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTWATCHES",
+      "subSubCategoria":"GALAXY WATCH 45 MM"
+   },
+   {
+      "url":"https://shop.samsung.com/br/galaxy-buds2--pro/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"AUDIO",
+      "subSubCategoria":"GALAXY BUDS2 PRO"
+   },
+   {
+      "url":"https://shop.samsung.com/br/galaxy-tab-s8-ultra/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"TABLET",
+      "subSubCategoria":"GALAXY TAB S"
+   },
+   {
+      "url":"https://shop.samsung.com/br/samsung-smart-tv-qled-4k-q65b-2022-55/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"TV E ÁUDIO",
+      "subCategoria":"TV",
+      "subSubCategoria":"QLED"
+   },
+   {
+      "url":"https://shop.samsung.com/br/samsung-the-freestyle-projetor-smart-portatil-de-30-a-100-polegadas-1934/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"TV E ÁUDIO",
+      "subCategoria":"PROJETORES",
+      "subSubCategoria":"THE FREESTYLE"
+   },
+   {
+      "url":"https://shop.samsung.com/br/ar-condicionado-sem-vento-samsung-windfree-quente-e-frio-220v-2094/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"ELETRODOMÉSTICOS",
+      "subCategoria":"AR CONDICIONADO",
+      "subSubCategoria":"WIND FREE"
+   },
+   {
+      "url":"https://shop.samsung.com/br/lava-e-seca-wd14t-14kg-2119/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"ELETRODOMÉSTICOS",
+      "subCategoria":"MÁQUINAS DE LAVAR E SECAR",
+      "subSubCategoria":"LAVA E SECA"
+   },
+   {
+      "url":"https://shop.samsung.com/br/geladeira-inverter-frost-free-duplex-inverse-barosa-432l/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"ELETRODOMÉSTICOS",
+      "subCategoria":"GELADEIRAS",
+      "subSubCategoria":"DUPLEX INVERSE"
+   },
+   {
+      "url":"https://shop.samsung.com/br/robo-aspirador-de-po-samsung-jet-bottm--com-clean-station-wi-fi-e-sensor-lidar-1857/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"ELETRODOMÉSTICOS",
+      "subCategoria":"ASPIRADORES",
+      "subSubCategoria":"ASPIRADORES ROBÔS"
+   },
+   {
+      "url":"https://shop.samsung.com/br/monitor-uhd-de-28-782/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"INFORMÁTICA",
+      "subCategoria":"MONITORES",
+      "subSubCategoria":"MONITOR 4K"
+   },
+   {
+      "url":"https://shop.samsung.com/br/galaxy-s22-ultra-5g/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTPHONE",
+      "subSubCategoria":"GALAXY S"
+   },
+   {
+      "url":"https://shop.samsung.com/br/samsung-galaxy-book2-360-w11h-intel-core-i5-np730qed-kf2br/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"INFORMÁTICA",
+      "subCategoria":"NOTEBOOKS",
+      "subSubCategoria":"GALAXY BOOK2 360"
+   },
+   {
+      "url":"https://shop.samsung.com/br/smart-monitor-samsung-2216/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"INFORMÁTICA",
+      "subCategoria":"MONITORES",
+      "subSubCategoria":"SMART MONITOR"
+   },
+   {
+      "url":"https://shop.samsung.com/br/samsung-smart-gaming-tv-2049/p",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"TV E ÁUDIO",
+      "subCategoria":"TV",
+      "subSubCategoria":"NEO QLED"
+   },
+   {
+      "url":"https://shop.samsung.com/br/soundbar-samsung-hw-q930b/p?skuId=3507",
+      "enviroment":"SEDA-SHOP",
+      "workspace":"SEDA-SHOP",
+      "area":"SEDA-PDP",
+      "categoria":"TV E ÁUDIO",
+      "subCategoria":"ÁUDIO",
+      "subSubCategoria":"SOUNDBAR"
+   },
+   {
+      "url":"https://shop.samsung.com/br/galaxy-z-fold4-5g/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTPHONE",
+      "subSubCategoria":"GALAXY Z FOLD"
+   },
+   {
+      "url":"https://shop.samsung.com/br/galaxy-z-fold4-5g/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTPHONE",
+      "subSubCategoria":"GALAXY Z FLIP"
+   },
+   {
+      "url":"https://shop.samsung.com/br/galaxy-s22-plus-5g/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTPHONE",
+      "subSubCategoria":"GALAXY S"
+   },
+   {
+      "url":"https://shop.samsung.com/br/galaxy-watch5-lte-44mm/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTWATCHES",
+      "subSubCategoria":"GALAXY WATCH 44 MM"
+   },
+   {
+      "url":"https://shop.samsung.com/br/galaxy-watch5-pro-bt-45mm/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTWATCHES",
+      "subSubCategoria":"GALAXY WATCH 45 MM"
+   },
+   {
+      "url":"https://shop.samsung.com/br/galaxy-buds2--pro/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"AUDIO",
+      "subSubCategoria":"GALAXY BUDS2 PRO"
+   },
+   {
+      "url":"https://shop.samsung.com/br/galaxy-tab-s8-ultra/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"TABLET",
+      "subSubCategoria":"GALAXY TAB S"
+   },
+   {
+      "url":"https://shop.samsung.com/br/samsung-smart-tv-qled-4k-q65b-2022-55/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"TV E ÁUDIO",
+      "subCategoria":"TV",
+      "subSubCategoria":"QLED"
+   },
+   {
+      "url":"https://shop.samsung.com/br/samsung-the-freestyle-projetor-smart-portatil-de-30-a-100-polegadas-1934/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"TV E ÁUDIO",
+      "subCategoria":"PROJETORES",
+      "subSubCategoria":"THE FREESTYLE"
+   },
+   {
+      "url":"https://shop.samsung.com/br/ar-condicionado-sem-vento-samsung-windfree-quente-e-frio-220v-2094/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"ELETRODOMÉSTICOS",
+      "subCategoria":"AR CONDICIONADO",
+      "subSubCategoria":"WIND FREE"
+   },
+   {
+      "url":"https://shop.samsung.com/br/lava-e-seca-wd14t-14kg-2119/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"ELETRODOMÉSTICOS",
+      "subCategoria":"MÁQUINAS DE LAVAR E SECAR",
+      "subSubCategoria":"LAVA E SECA"
+   },
+   {
+      "url":"https://shop.samsung.com/br/geladeira-inverter-frost-free-duplex-inverse-barosa-432l/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"ELETRODOMÉSTICOS",
+      "subCategoria":"GELADEIRAS",
+      "subSubCategoria":"DUPLEX INVERSE"
+   },
+   {
+      "url":"https://shop.samsung.com/br/robo-aspirador-de-po-samsung-jet-bottm--com-clean-station-wi-fi-e-sensor-lidar-1857/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"ELETRODOMÉSTICOS",
+      "subCategoria":"ASPIRADORES",
+      "subSubCategoria":"ASPIRADORES ROBÔS"
+   },
+   {
+      "url":"https://shop.samsung.com/br/monitor-uhd-de-28-782/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"INFORMÁTICA",
+      "subCategoria":"MONITORES",
+      "subSubCategoria":"MONITOR 4K"
+   },
+   {
+      "url":"https://shop.samsung.com/br/galaxy-s22-ultra-5g/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"MOBILE",
+      "subCategoria":"SMARTPHONE",
+      "subSubCategoria":"GALAXY S"
+   },
+   {
+      "url":"https://shop.samsung.com/br/samsung-galaxy-book2-360-w11h-intel-core-i5-np730qed-kf2br/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"INFORMÁTICA",
+      "subCategoria":"NOTEBOOKS",
+      "subSubCategoria":"GALAXY BOOK2 360"
+   },
+   {
+      "url":"https://shop.samsung.com/br/smart-monitor-samsung-2216/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"INFORMÁTICA",
+      "subCategoria":"MONITORES",
+      "subSubCategoria":"SMART MONITOR"
+   },
+   {
+      "url":"https://shop.samsung.com/br/samsung-smart-gaming-tv-2049/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"TV E ÁUDIO",
+      "subCategoria":"TV",
+      "subSubCategoria":"NEO QLED"
+   },
+   {
+      "url":"https://shop.samsung.com/br/soundbar-samsung-hw-q930b/p?workspace=prdperformanceapp&v=789",
+      "enviroment":"SEDA-SHOP-PERF",
+      "workspace":"SEDA-SHOP-PERF",
+      "area":"SEDA-PDP",
+      "categoria":"TV E ÁUDIO",
+      "subCategoria":"ÁUDIO",
+      "subSubCategoria":"SOUNDBAR"
+   }
+]
